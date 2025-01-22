@@ -1,5 +1,10 @@
 package chap02;
 
+/**
+ * This class represents the "GuessGame" where three players try to guess a randomly generated number.
+ * The game continues until at least one player guesses the number correctly.
+ */
+
 public class GuessGame {
 
    Player p1;
